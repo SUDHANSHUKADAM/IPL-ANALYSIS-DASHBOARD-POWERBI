@@ -81,8 +81,9 @@ This project is an **interactive Power BI dashboard** that provides a **dynamic,
 ### 🔹 2025 Season Selected
 <img width="1454" height="800" alt="image" src="https://github.com/user-attachments/assets/7f90c979-65f4-40d3-9d14-835e11f40b17" />
 
-### 🔹 2008 Season Selected (Example)
-<img width="1452" height="795" alt="image" src="https://github.com/user-attachments/assets/9c64a503-95ac-49e5-bdfb-c60535fb1184" />
+### 🔹 2016 Season Selected (Example)
+<img width="1446" height="792" alt="image" src="https://github.com/user-attachments/assets/d250ac33-d6f1-4e30-9b77-67c4b84d9f79" />
+
 
 > Notice how all KPIs, stats, and tables automatically change based on the selected season, showcasing the dashboard’s **dynamic behavior**.
 
